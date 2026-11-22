@@ -1,8 +1,8 @@
 # The Velvet Vault
 
-[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
-[![rank](https://make.fun/badge/best-heist-game-20261122-0559/arnesarizky/velvet-vault-heist/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
-[![reward](https://make.fun/badge/best-heist-game-20261122-0559/arnesarizky/velvet-vault-heist/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+![The Velvet Vault — best heist game](https://make.fun/badge/best-heist-game-20261122-0559.svg)
+![Rank](https://make.fun/badge/best-heist-game-20261122-0559/arnesarizky/velvet-vault-heist/rank.svg)
+![Reward](https://make.fun/badge/best-heist-game-20261122-0559/arnesarizky/velvet-vault-heist/reward.svg)
 
 An original top-down 2D heist game, made for the make.fun **best-heist-game-20261122-0559** bounty. Three jobs, one crew, no alarms — if you can help it.
 
